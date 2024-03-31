@@ -68,7 +68,7 @@ void solve(size_t rings, Stack *stacks) {
   int n, m;
   int b = 1;
   int c = 2;
-  if (moves % 2 == 0) {
+  if (rings % 2 == 0) {
     b = 2;
     c = 1;
   }
