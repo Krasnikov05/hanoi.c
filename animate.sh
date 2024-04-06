@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-bash ./build.sh
 function exit_ok() {
   exit 0
 }
